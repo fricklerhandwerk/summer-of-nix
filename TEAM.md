@@ -23,6 +23,9 @@
 
 * [Nix@NGI office hours](https://calendar.google.com/calendar/u/0/event?eid=MmFqNzE2MWVkNjI1YzRsdDNsZTcyNWY5MGhfMjAyNTAyMTNUMTQwMDAwWiBiOW81MmZvYnFqYWs4b3E4bGZraGczdDBxZ0Bn)
 
+  A Google account is required to view calendar event details.
+  Check the [official NixOS calendar](https://calendar.google.com/calendar/u/0/embed?src=b9o52fobqjak8oq8lfkhg3t0qg@group.calendar.google.com) for an overview of all event.
+
 
 ## Resources
 
